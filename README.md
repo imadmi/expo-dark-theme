@@ -1,6 +1,7 @@
 # React native dark theme using Tailwind
 
-[![Watch the video](./Screenshot%202024-05-18%20at%2006.19.14.png)](./Screen%20Recording%202024-05-18%20at%2006.12.06.mov)
+
+https://github.com/imadmi/expo-dark-theme/assets/81130422/bff2247f-a450-4d33-b452-bf3a2009373c
 
 
 
